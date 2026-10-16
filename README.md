@@ -66,7 +66,7 @@ This project demonstrates practical SQL skills in data retrieval, filtering, agg
 
 It forms part of my Data Analyst portfolio and demonstrates how SQL can transform transaction data into useful business insights.
 
-## Autthor
+## Author
 
 Bester Malama
 
@@ -77,22 +77,22 @@ Aspiring Data Analyst | Lusaka, Zambia
 ## SQL Analysis Screenshots
 
 ### 1. Total Sales Revenue
-![Total Revenue](screenshots/total_revenue.png)
+![Total Revenue](total_revenue.png)
 
 ### 2. Sales Revenue by Product
-![Sales by Product](screenshots/sales_by_product.png)
+![Sales by Product](sales_by_product.png)
 
 ### 3. Sales Revenue by City
-![Sales by City](screenshots/sales_by_city.png)
+![Sales by City](sales_by_city.png)
 
 ### 4. Top Customers
-![Top Customers](screenshots/top_customers.png)
+![Top Customers](top_customers.png)
 
 ### 5. HAVING Analysis
-![HAVING Analysis](screenshots/having_analysis.png)
+![HAVING Analysis](having_analysis.png)
 
 ### 6. Subquery Analysis
-![Subquery Analysis](screenshots/subquery_analysis.png)
+![Subquery Analysis](subquery_analysis.png)
 
 ### 7. Database Tables
-![Database Tables](screenshots/database_tables.png)
+![Database Tables](database_tables.png)
