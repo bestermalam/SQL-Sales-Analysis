@@ -83,16 +83,16 @@ Aspiring Data Analyst | Lusaka, Zambia
 ![Sales by Product](sales_by_product.png)
 
 ### 3. Sales Revenue by City
-![Sales by City](sales_by_city.png)
+![Sales by City](screenshots/sales_by_city.png)
 
 ### 4. Top Customers
-![Top Customers](top_customers.png)
+![Top Customers](screenshots/top_customers.png)
 
 ### 5. HAVING Analysis
-![HAVING Analysis](having_analysis.png)
+![HAVING Analysis](screenshots/having_analysis.png)
 
 ### 6. Subquery Analysis
-![Subquery Analysis](subquery_analysis.png)
+![Subquery Analysis](screenshots/subquery_analysis.png)
 
 ### 7. Database Tables
-![Database Tables](database_tables.png)
+![Database Tables](screenshots/database_tables.png)
