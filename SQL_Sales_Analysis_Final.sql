@@ -118,6 +118,163 @@ JOIN products
 GROUP BY customers.city
 ORDER BY total_revenue DESC;
 
+-- =====================================================
+-- SQL SALES ANALYSIS PROJECT
+-- BUSINESS QUESTIONS AND EXPLANATIONS
+-- Author: Bester Malama
+-- =====================================================
+
+-- PROJECT OVERVIEW
+-- This project analyzes fictional retail sales
+-- transactions for a business operating in Zambia.
+--
+-- The purpose is to demonstrate how SQL can be
+-- used to analyze revenue, products, customers,
+-- and sales performance across different cities.
+
+
+-- =====================================================
+-- QUERY 1: DISPLAY ALL SALES TRANSACTIONS
+-- =====================================================
+
+-- Business Question:
+-- What sales transactions have been recorded?
+
+-- Purpose:
+-- Retrieve transaction records from the sales table.
+
+-- Business Value:
+-- Helps management inspect sales records and
+-- understand the available transaction data.
+
+
+-- =====================================================
+-- QUERY 2: CALCULATE TOTAL SALES REVENUE
+-- =====================================================
+
+-- Business Question:
+-- How much revenue did the business generate?
+
+-- Purpose:
+-- Calculate total transactions, units sold,
+-- total revenue, and average transaction value.
+
+-- Business Value:
+-- Helps management evaluate overall sales
+-- performance using key business indicators.
+
+
+-- =====================================================
+-- QUERY 3: REVENUE BY PRODUCT
+-- =====================================================
+
+-- Business Question:
+-- Which products generate the highest revenue?
+
+-- Purpose:
+-- Calculate and compare total revenue by product.
+
+-- Business Value:
+-- Helps management identify high-revenue products
+-- and make informed inventory decisions.
+
+
+-- =====================================================
+-- QUERY 4: SALES REVENUE BY CITY
+-- =====================================================
+
+-- Business Question:
+-- Which cities generate the highest revenue?
+
+-- Purpose:
+-- Group sales according to customer locations.
+
+-- Business Value:
+-- Helps management compare sales across
+-- Lusaka, Ndola, Kitwe, and Livingstone.
+
+
+-- =====================================================
+-- QUERY 5: HIGHEST-SPENDING CUSTOMERS
+-- =====================================================
+
+-- Business Question:
+-- Which customers spend the most money?
+
+-- Purpose:
+-- Calculate total spending for each customer.
+
+-- Business Value:
+-- Helps management identify high-value customers
+-- and investigate customer retention strategies.
+
+
+-- =====================================================
+-- QUERY 6: PRODUCTS GENERATING MORE THAN K10,000
+-- =====================================================
+
+-- Business Question:
+-- Which products generate more than K10,000?
+
+-- Purpose:
+-- Use GROUP BY and HAVING to identify products
+-- whose revenue exceeds K10,000.
+
+-- Business Value:
+-- Helps management identify products making
+-- substantial contributions to total revenue.
+
+
+-- =====================================================
+-- QUERY 7: PRODUCTS PRICED ABOVE AVERAGE
+-- =====================================================
+
+-- Business Question:
+-- Which products cost more than the average price?
+
+-- Purpose:
+-- Use a subquery and AVG() to identify
+-- products priced above the overall average.
+
+-- Business Value:
+-- Helps management understand product pricing
+-- and identify relatively expensive products.
+
+
+-- =====================================================
+-- SKILLS DEMONSTRATED
+-- =====================================================
+
+-- SELECT and WHERE
+-- INNER JOIN
+-- GROUP BY and HAVING
+-- ORDER BY
+-- SUM, AVG, COUNT
+-- Subqueries
+-- Primary Keys and Foreign Keys
+-- Relational Database Design
+
+
+-- =====================================================
+-- PROJECT CONCLUSION
+-- =====================================================
+
+-- This project demonstrates how SQL can support
+-- business decisions through sales analysis.
+--
+-- It provides insights into revenue,
+-- customer spending, product performance,
+-- and geographic sales distribution.
+--
+-- Dataset: Fictional retail transactions.
+-- Author: Bester Malama
+-- Aspiring Data Analyst
+-- Lusaka, Zambia
+
+-- =====================================================
+-- END OF PROJECT DOCUMENTATION
+-- =====================================================
+
 
 -- 5. HIGHEST-SPENDING CUSTOMERS
 
